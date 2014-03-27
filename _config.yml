@@ -2,7 +2,7 @@ title:            Michael A. Tseng
 description:      JavaScript Hello World Examples Built From Scratch
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              /matseng.github.io
 
 # Owner/author information
 owner:
